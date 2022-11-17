@@ -1,2 +1,11 @@
-#这里什么都没有
-#咕咕咕....
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>这里什么也没有</h1>
+    <h3>咕咕咕.....</h3>
+  </body>
+</html>
