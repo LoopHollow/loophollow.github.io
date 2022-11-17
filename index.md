@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Home</title>
+    
   </head>
   <body>
     <h1>这里什么也没有</h1>
